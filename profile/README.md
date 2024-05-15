@@ -3,6 +3,16 @@
 ## Service Introduction
 클라우드 서비스를 적용한 Spring boot 웹 도서 쇼핑몰 서비스
 
+## 팀원
+|강병구|김병주|박동희|박병휘|이재원|진지원|
+|---|---|---|---|---|---|
+|<img style="height: 100px; width: 100px;" src="https://github.com/nhnacademy-be5-no24/.github/assets/43560497/b6410ba6-22ca-484e-8247-590781084c6b"/>|<img style="height: 100px; width: 100px;" src="https://github.com/nhnacademy-be5-no24/.github/assets/43560497/bd96edf5-60dd-48f5-9548-7d0f8157db23"/>|<img style="height: 100px; width: 100px;" src="https://github.com/nhnacademy-be5-no24/.github/assets/43560497/4c858cd6-6c46-4d05-810e-7020cfdb864e"/>|<img style="height: 100px; width: 100px;" src="https://github.com/nhnacademy-be5-no24/.github/assets/43560497/f700f597-a3b3-4831-bfdc-0159ae1ae95f"/>|<img style="height: 100px; width: 100px;" src="https://github.com/nhnacademy-be5-no24/.github/assets/43560497/e312010f-7af6-49c8-98d2-7aee3f4bedd4"/>|<img style="height: 100px; width: 100px;" src="https://github.com/nhnacademy-be5-no24/.github/assets/43560497/856bf599-346c-4454-b87c-82f7b3d25b80"/>|
+|카테고리|Spring Batch|Scrum Master|인프라|도서|장바구니, 결제|
+|리뷰|회원, 등급|주문, 결제|JWT, OAuth 2.0|도서 관련 테이블|주소|
+|쿠폰, 포인트|JWT|저자|Toss Payments||Redis|
+|ELK||포장지|RabbitMQ||리뷰|
+|AOP|||휴면 해제|||
+
 ## System Architecture
 ![image](https://github.com/nhnacademy-be5-no24/no24-frontend/assets/95386182/adaac288-a4e4-4a8e-99ad-0d3d1dc43442)
 
@@ -162,11 +172,3 @@
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white">
 <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&amp;logo=logstash&amp;logoColor=white">
 <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&amp;logo=kibana&amp;logoColor=white">
-
-
-
-## 팀원
-
-<a href="https://github.com/nhnacademy-be5-no24/contributors/no24-frontend">
-  <img src="https://contrib.rocks/image?repo=nhnacademy-be5-no24/no24-frontend"/>
-</a>
