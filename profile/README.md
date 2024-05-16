@@ -14,7 +14,7 @@
 |AOP|||휴면 해제|||
 
 ## System Architecture
-![image](https://github.com/nhnacademy-be5-no24/no24-frontend/assets/95386182/adaac288-a4e4-4a8e-99ad-0d3d1dc43442)
+![image](https://github.com/nhnacademy-be5-no24/.github/assets/43560497/f726107f-609a-4de4-9d8d-f6a02655e0d2)
 
 > 1. 클라이언트의 요청은 NginX를 통해서 들어오고, 로드밸런서에서 Round Robin 방식으로 2개의 Front Server에 순서대로 보낸다.
 > 2. Front Server
